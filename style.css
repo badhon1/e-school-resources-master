@@ -1,0 +1,56 @@
+.bg-color{
+    background-color: rgb(213, 235, 227);
+    height: 800px;
+    margin-bottom: 100px;
+}
+.icon-size{
+    width: 150px;
+}
+.nav-item, .btn-style{
+    padding: 0 10px;
+}
+.button-style{
+    color: #fff;
+    background-color: green;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+}
+span{
+    color: green;
+    font-weight: 700;
+}
+h6{
+    color: red;
+   
+}
+.bg-style{
+    margin-top: 150px;
+}
+.showdo-box{
+    height:50px;
+    width: 50px;  
+}
+.aling{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.hello{
+    padding-top: 30px;
+    box-shadow: 1px 1px 10px gray;
+    margin-left: 10px;
+    margin-bottom: 80px;
+}
+.text-alight{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 10px gray;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
