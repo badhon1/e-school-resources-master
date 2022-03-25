@@ -35,7 +35,6 @@ h6{
     text-align: center;
     padding-top: 30px;
 }
-
 .hello{
     padding-top: 30px;
     box-shadow: 1px 1px 10px gray;
@@ -52,5 +51,32 @@ h6{
     box-shadow: 1px 1px 10px gray;
     padding: 15px;
     border-radius: 10px;
+}
+.img-style{
+    height: 30px;
+    width: 30px;
+    margin-top: 20px;
+}
+.helllllo{
+    margin-top: 20px;
+}
+.text-aaa{
+    text-align: center;
+    margin-top: 50px;
+}
+.img-size{
+   width: 200px;
+   height: 200px;
+   margin-left: 40px;
+   margin-bottom: 90px;
+
+}
+.ali{
+    margin-top: 50px;
+}
+.button-style:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid green;
     
 }
